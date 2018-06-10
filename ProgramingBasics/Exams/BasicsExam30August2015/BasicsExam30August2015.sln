@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyCalorieIntake", "DailyCalorieIntake\DailyCalorieIntake.csproj", "{65A6F8CC-FF67-492D-A39F-0AF2D3181D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballStatistics", "FootballStatistics\FootballStatistics.csproj", "{40C2C002-C10F-48A5-B3B1-5A3999B62638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripedTowel", "StripedTowel\StripedTowel.csproj", "{DCCBA511-21F7-4778-9F10-11DCD7F0310E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleportPoints", "TeleportPoints\TeleportPoints.csproj", "{8966AC5D-4731-4696-A467-2B3A1EA844D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveBits", "WaveBits\WaveBits.csproj", "{1C2941E8-8B59-4EB0-B0B7-9CBA30BD0643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2941E8-8B59-4EB0-B0B7-9CBA30BD0643}.Debug|x86.ActiveCfg = Debug|x86
+		{1C2941E8-8B59-4EB0-B0B7-9CBA30BD0643}.Debug|x86.Build.0 = Debug|x86
+		{1C2941E8-8B59-4EB0-B0B7-9CBA30BD0643}.Release|x86.ActiveCfg = Release|x86
+		{1C2941E8-8B59-4EB0-B0B7-9CBA30BD0643}.Release|x86.Build.0 = Release|x86
+		{40C2C002-C10F-48A5-B3B1-5A3999B62638}.Debug|x86.ActiveCfg = Debug|x86
+		{40C2C002-C10F-48A5-B3B1-5A3999B62638}.Debug|x86.Build.0 = Debug|x86
+		{40C2C002-C10F-48A5-B3B1-5A3999B62638}.Release|x86.ActiveCfg = Release|x86
+		{40C2C002-C10F-48A5-B3B1-5A3999B62638}.Release|x86.Build.0 = Release|x86
+		{65A6F8CC-FF67-492D-A39F-0AF2D3181D1E}.Debug|x86.ActiveCfg = Debug|x86
+		{65A6F8CC-FF67-492D-A39F-0AF2D3181D1E}.Debug|x86.Build.0 = Debug|x86
+		{65A6F8CC-FF67-492D-A39F-0AF2D3181D1E}.Release|x86.ActiveCfg = Release|x86
+		{65A6F8CC-FF67-492D-A39F-0AF2D3181D1E}.Release|x86.Build.0 = Release|x86
+		{8966AC5D-4731-4696-A467-2B3A1EA844D9}.Debug|x86.ActiveCfg = Debug|x86
+		{8966AC5D-4731-4696-A467-2B3A1EA844D9}.Debug|x86.Build.0 = Debug|x86
+		{8966AC5D-4731-4696-A467-2B3A1EA844D9}.Release|x86.ActiveCfg = Release|x86
+		{8966AC5D-4731-4696-A467-2B3A1EA844D9}.Release|x86.Build.0 = Release|x86
+		{DCCBA511-21F7-4778-9F10-11DCD7F0310E}.Debug|x86.ActiveCfg = Debug|x86
+		{DCCBA511-21F7-4778-9F10-11DCD7F0310E}.Debug|x86.Build.0 = Debug|x86
+		{DCCBA511-21F7-4778-9F10-11DCD7F0310E}.Release|x86.ActiveCfg = Release|x86
+		{DCCBA511-21F7-4778-9F10-11DCD7F0310E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

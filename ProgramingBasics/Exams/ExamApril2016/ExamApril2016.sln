@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairingTheTiles", "RepairingTheTiles\RepairingTheTiles.csproj", "{7F10DBB0-C906-4328-81DD-029373BC224D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepyTomCat", "SleepyTomCat\SleepyTomCat.csproj", "{9A17EE46-E717-4C5B-89AA-5F603A96A1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{8755D70A-DE24-4347-8516-5D484571E2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLilly", "SmartLilly\SmartLilly.csproj", "{076CE4E5-2338-43BC-856E-E78919403A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopSign", "StopSign\StopSign.csproj", "{04D6209F-D3D5-482C-8DD3-4A81348A419D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNumbers\SpecialNumbers.csproj", "{95DD04A6-E9D3-4FD9-9F09-C82D2F3757B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D6209F-D3D5-482C-8DD3-4A81348A419D}.Debug|x86.ActiveCfg = Debug|x86
+		{04D6209F-D3D5-482C-8DD3-4A81348A419D}.Debug|x86.Build.0 = Debug|x86
+		{04D6209F-D3D5-482C-8DD3-4A81348A419D}.Release|x86.ActiveCfg = Release|x86
+		{04D6209F-D3D5-482C-8DD3-4A81348A419D}.Release|x86.Build.0 = Release|x86
+		{076CE4E5-2338-43BC-856E-E78919403A09}.Debug|x86.ActiveCfg = Debug|x86
+		{076CE4E5-2338-43BC-856E-E78919403A09}.Debug|x86.Build.0 = Debug|x86
+		{076CE4E5-2338-43BC-856E-E78919403A09}.Release|x86.ActiveCfg = Release|x86
+		{076CE4E5-2338-43BC-856E-E78919403A09}.Release|x86.Build.0 = Release|x86
+		{7F10DBB0-C906-4328-81DD-029373BC224D}.Debug|x86.ActiveCfg = Debug|x86
+		{7F10DBB0-C906-4328-81DD-029373BC224D}.Debug|x86.Build.0 = Debug|x86
+		{7F10DBB0-C906-4328-81DD-029373BC224D}.Release|x86.ActiveCfg = Release|x86
+		{7F10DBB0-C906-4328-81DD-029373BC224D}.Release|x86.Build.0 = Release|x86
+		{8755D70A-DE24-4347-8516-5D484571E2E6}.Debug|x86.ActiveCfg = Debug|x86
+		{8755D70A-DE24-4347-8516-5D484571E2E6}.Debug|x86.Build.0 = Debug|x86
+		{8755D70A-DE24-4347-8516-5D484571E2E6}.Release|x86.ActiveCfg = Release|x86
+		{8755D70A-DE24-4347-8516-5D484571E2E6}.Release|x86.Build.0 = Release|x86
+		{95DD04A6-E9D3-4FD9-9F09-C82D2F3757B9}.Debug|x86.ActiveCfg = Debug|x86
+		{95DD04A6-E9D3-4FD9-9F09-C82D2F3757B9}.Debug|x86.Build.0 = Debug|x86
+		{95DD04A6-E9D3-4FD9-9F09-C82D2F3757B9}.Release|x86.ActiveCfg = Release|x86
+		{95DD04A6-E9D3-4FD9-9F09-C82D2F3757B9}.Release|x86.Build.0 = Release|x86
+		{9A17EE46-E717-4C5B-89AA-5F603A96A1F5}.Debug|x86.ActiveCfg = Debug|x86
+		{9A17EE46-E717-4C5B-89AA-5F603A96A1F5}.Debug|x86.Build.0 = Debug|x86
+		{9A17EE46-E717-4C5B-89AA-5F603A96A1F5}.Release|x86.ActiveCfg = Release|x86
+		{9A17EE46-E717-4C5B-89AA-5F603A96A1F5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
