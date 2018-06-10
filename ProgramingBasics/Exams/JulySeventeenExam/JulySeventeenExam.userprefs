@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="StopNumber/StopNumber.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StopNumber/Program.cs">
+    <Files>
+      <File FileName="TimeMachine/Program.cs" Line="22" Column="6" />
+      <File FileName="Diamond/Program.cs" Line="21" Column="37" />
+      <File FileName="StopNumber/Program.cs" Line="23" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
