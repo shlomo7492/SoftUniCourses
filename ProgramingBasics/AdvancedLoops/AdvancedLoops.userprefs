@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="NumberTable/NumberTable.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberTable/Program.cs">
+    <Files>
+      <File FileName="GreatestCommonDivisor/Program.cs" Line="1" Column="1" />
+      <File FileName="Factorial/Program.cs" Line="1" Column="1" />
+      <File FileName="SumDigits/Program.cs" Line="17" Column="2" />
+      <File FileName="CheckPrime/Program.cs" Line="22" Column="39" />
+      <File FileName="EnterEvenNumber/Program.cs" Line="14" Column="43" />
+      <File FileName="NFibonachiNum/Program.cs" Line="17" Column="3" />
+      <File FileName="PiramidOfNumbers/Program.cs" Line="13" Column="5" />
+      <File FileName="NumberTable/Program.cs" Line="3" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
