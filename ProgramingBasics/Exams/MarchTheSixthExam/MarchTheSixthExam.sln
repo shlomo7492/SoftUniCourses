@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingLab", "TrainingLab\TrainingLab.csproj", "{E6B446D9-606E-4703-B6B6-D9EA98251AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportPrice", "TransportPrice\TransportPrice.csproj", "{DF080120-9EDC-403D-A662-C679187996DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTimeForTheExam", "OnTimeForTheExam\OnTimeForTheExam.csproj", "{196F5D9A-BEBF-4ABD-B5BE-27527E0A2EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{E3BB09E7-5C2C-419C-9C35-F8A5B310C6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawFort", "DrawFort\DrawFort.csproj", "{3D1D3CA6-7C53-4EAB-BC95-88B92E230E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupidPasswordGenerator", "StupidPasswordGenerator\StupidPasswordGenerator.csproj", "{40582212-9DF4-4A0E-8C3E-65B1B6802453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196F5D9A-BEBF-4ABD-B5BE-27527E0A2EBB}.Debug|x86.ActiveCfg = Debug|x86
+		{196F5D9A-BEBF-4ABD-B5BE-27527E0A2EBB}.Debug|x86.Build.0 = Debug|x86
+		{196F5D9A-BEBF-4ABD-B5BE-27527E0A2EBB}.Release|x86.ActiveCfg = Release|x86
+		{196F5D9A-BEBF-4ABD-B5BE-27527E0A2EBB}.Release|x86.Build.0 = Release|x86
+		{3D1D3CA6-7C53-4EAB-BC95-88B92E230E3C}.Debug|x86.ActiveCfg = Debug|x86
+		{3D1D3CA6-7C53-4EAB-BC95-88B92E230E3C}.Debug|x86.Build.0 = Debug|x86
+		{3D1D3CA6-7C53-4EAB-BC95-88B92E230E3C}.Release|x86.ActiveCfg = Release|x86
+		{3D1D3CA6-7C53-4EAB-BC95-88B92E230E3C}.Release|x86.Build.0 = Release|x86
+		{40582212-9DF4-4A0E-8C3E-65B1B6802453}.Debug|x86.ActiveCfg = Debug|x86
+		{40582212-9DF4-4A0E-8C3E-65B1B6802453}.Debug|x86.Build.0 = Debug|x86
+		{40582212-9DF4-4A0E-8C3E-65B1B6802453}.Release|x86.ActiveCfg = Release|x86
+		{40582212-9DF4-4A0E-8C3E-65B1B6802453}.Release|x86.Build.0 = Release|x86
+		{DF080120-9EDC-403D-A662-C679187996DA}.Debug|x86.ActiveCfg = Debug|x86
+		{DF080120-9EDC-403D-A662-C679187996DA}.Debug|x86.Build.0 = Debug|x86
+		{DF080120-9EDC-403D-A662-C679187996DA}.Release|x86.ActiveCfg = Release|x86
+		{DF080120-9EDC-403D-A662-C679187996DA}.Release|x86.Build.0 = Release|x86
+		{E3BB09E7-5C2C-419C-9C35-F8A5B310C6EA}.Debug|x86.ActiveCfg = Debug|x86
+		{E3BB09E7-5C2C-419C-9C35-F8A5B310C6EA}.Debug|x86.Build.0 = Debug|x86
+		{E3BB09E7-5C2C-419C-9C35-F8A5B310C6EA}.Release|x86.ActiveCfg = Release|x86
+		{E3BB09E7-5C2C-419C-9C35-F8A5B310C6EA}.Release|x86.Build.0 = Release|x86
+		{E6B446D9-606E-4703-B6B6-D9EA98251AE4}.Debug|x86.ActiveCfg = Debug|x86
+		{E6B446D9-606E-4703-B6B6-D9EA98251AE4}.Debug|x86.Build.0 = Debug|x86
+		{E6B446D9-606E-4703-B6B6-D9EA98251AE4}.Release|x86.ActiveCfg = Release|x86
+		{E6B446D9-606E-4703-B6B6-D9EA98251AE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

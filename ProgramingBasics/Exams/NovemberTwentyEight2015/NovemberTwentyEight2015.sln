@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImpressGirlFriend", "ImpressGirlFriend\ImpressGirlFriend.csproj", "{CEDF41D0-A0A9-4B1D-9A0A-BAAED2B1A747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeThePlanesDown", "TakeThePlanesDown\TakeThePlanesDown.csproj", "{1A27EBFA-FF88-4F8C-80F2-3EEC1F5F6322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceOfDiamonds", "AceOfDiamonds\AceOfDiamonds.csproj", "{A5F055EA-7FF9-4106-9E54-E09DA995D2B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A27EBFA-FF88-4F8C-80F2-3EEC1F5F6322}.Debug|x86.ActiveCfg = Debug|x86
+		{1A27EBFA-FF88-4F8C-80F2-3EEC1F5F6322}.Debug|x86.Build.0 = Debug|x86
+		{1A27EBFA-FF88-4F8C-80F2-3EEC1F5F6322}.Release|x86.ActiveCfg = Release|x86
+		{1A27EBFA-FF88-4F8C-80F2-3EEC1F5F6322}.Release|x86.Build.0 = Release|x86
+		{A5F055EA-7FF9-4106-9E54-E09DA995D2B8}.Debug|x86.ActiveCfg = Debug|x86
+		{A5F055EA-7FF9-4106-9E54-E09DA995D2B8}.Debug|x86.Build.0 = Debug|x86
+		{A5F055EA-7FF9-4106-9E54-E09DA995D2B8}.Release|x86.ActiveCfg = Release|x86
+		{A5F055EA-7FF9-4106-9E54-E09DA995D2B8}.Release|x86.Build.0 = Release|x86
+		{CEDF41D0-A0A9-4B1D-9A0A-BAAED2B1A747}.Debug|x86.ActiveCfg = Debug|x86
+		{CEDF41D0-A0A9-4B1D-9A0A-BAAED2B1A747}.Debug|x86.Build.0 = Debug|x86
+		{CEDF41D0-A0A9-4B1D-9A0A-BAAED2B1A747}.Release|x86.ActiveCfg = Release|x86
+		{CEDF41D0-A0A9-4B1D-9A0A-BAAED2B1A747}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
