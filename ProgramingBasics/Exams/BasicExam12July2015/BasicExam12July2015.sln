@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourFactors", "FourFactors\FourFactors.csproj", "{3EFF059F-02D9-4C24-9D58-8818054C4CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectiveBoev", "DetectiveBoev\DetectiveBoev.csproj", "{B503C2CE-BE6B-40BB-92C6-D47413E19125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summertime", "Summertime\Summertime.csproj", "{71B3CC2C-E3EA-457F-AD17-20BCF52D8C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightTheTorches", "LightTheTorches\LightTheTorches.csproj", "{A4FB48F8-F698-4C9E-8DFE-F974C878C03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFF059F-02D9-4C24-9D58-8818054C4CC9}.Debug|x86.ActiveCfg = Debug|x86
+		{3EFF059F-02D9-4C24-9D58-8818054C4CC9}.Debug|x86.Build.0 = Debug|x86
+		{3EFF059F-02D9-4C24-9D58-8818054C4CC9}.Release|x86.ActiveCfg = Release|x86
+		{3EFF059F-02D9-4C24-9D58-8818054C4CC9}.Release|x86.Build.0 = Release|x86
+		{71B3CC2C-E3EA-457F-AD17-20BCF52D8C46}.Debug|x86.ActiveCfg = Debug|x86
+		{71B3CC2C-E3EA-457F-AD17-20BCF52D8C46}.Debug|x86.Build.0 = Debug|x86
+		{71B3CC2C-E3EA-457F-AD17-20BCF52D8C46}.Release|x86.ActiveCfg = Release|x86
+		{71B3CC2C-E3EA-457F-AD17-20BCF52D8C46}.Release|x86.Build.0 = Release|x86
+		{A4FB48F8-F698-4C9E-8DFE-F974C878C03A}.Debug|x86.ActiveCfg = Debug|x86
+		{A4FB48F8-F698-4C9E-8DFE-F974C878C03A}.Debug|x86.Build.0 = Debug|x86
+		{A4FB48F8-F698-4C9E-8DFE-F974C878C03A}.Release|x86.ActiveCfg = Release|x86
+		{A4FB48F8-F698-4C9E-8DFE-F974C878C03A}.Release|x86.Build.0 = Release|x86
+		{B503C2CE-BE6B-40BB-92C6-D47413E19125}.Debug|x86.ActiveCfg = Debug|x86
+		{B503C2CE-BE6B-40BB-92C6-D47413E19125}.Debug|x86.Build.0 = Debug|x86
+		{B503C2CE-BE6B-40BB-92C6-D47413E19125}.Release|x86.ActiveCfg = Release|x86
+		{B503C2CE-BE6B-40BB-92C6-D47413E19125}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

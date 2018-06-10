@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiIvanAdventures", "BaiIvanAdventures\BaiIvanAdventures.csproj", "{581397F1-6586-406C-A3D4-71A383A90EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrunkAni", "DrunkAni\DrunkAni.csproj", "{78E7D135-3998-4ACE-8839-52F6ACFF0954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTree", "ChristmasTree\ChristmasTree.csproj", "{F9C0CE3A-B2F6-4C66-95ED-CCDD6D7AD8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneProcesses", "PhoneProcesses\PhoneProcesses.csproj", "{C5C278A0-DD1D-4BFD-BDF3-40A37C023068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581397F1-6586-406C-A3D4-71A383A90EEF}.Debug|x86.ActiveCfg = Debug|x86
+		{581397F1-6586-406C-A3D4-71A383A90EEF}.Debug|x86.Build.0 = Debug|x86
+		{581397F1-6586-406C-A3D4-71A383A90EEF}.Release|x86.ActiveCfg = Release|x86
+		{581397F1-6586-406C-A3D4-71A383A90EEF}.Release|x86.Build.0 = Release|x86
+		{78E7D135-3998-4ACE-8839-52F6ACFF0954}.Debug|x86.ActiveCfg = Debug|x86
+		{78E7D135-3998-4ACE-8839-52F6ACFF0954}.Debug|x86.Build.0 = Debug|x86
+		{78E7D135-3998-4ACE-8839-52F6ACFF0954}.Release|x86.ActiveCfg = Release|x86
+		{78E7D135-3998-4ACE-8839-52F6ACFF0954}.Release|x86.Build.0 = Release|x86
+		{C5C278A0-DD1D-4BFD-BDF3-40A37C023068}.Debug|x86.ActiveCfg = Debug|x86
+		{C5C278A0-DD1D-4BFD-BDF3-40A37C023068}.Debug|x86.Build.0 = Debug|x86
+		{C5C278A0-DD1D-4BFD-BDF3-40A37C023068}.Release|x86.ActiveCfg = Release|x86
+		{C5C278A0-DD1D-4BFD-BDF3-40A37C023068}.Release|x86.Build.0 = Release|x86
+		{F9C0CE3A-B2F6-4C66-95ED-CCDD6D7AD8C3}.Debug|x86.ActiveCfg = Debug|x86
+		{F9C0CE3A-B2F6-4C66-95ED-CCDD6D7AD8C3}.Debug|x86.Build.0 = Debug|x86
+		{F9C0CE3A-B2F6-4C66-95ED-CCDD6D7AD8C3}.Release|x86.ActiveCfg = Release|x86
+		{F9C0CE3A-B2F6-4C66-95ED-CCDD6D7AD8C3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

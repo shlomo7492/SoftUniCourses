@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBetterMusicProducer", "TheBetterMusicProducer\TheBetterMusicProducer.csproj", "{85F23664-F934-45C4-BEB2-F1234D62199F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrandTheftExamo", "GrandTheftExamo\GrandTheftExamo.csproj", "{BB037197-E958-4D68-BD54-AE83D83D74F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaidTowel", "PlaidTowel\PlaidTowel.csproj", "{B0194464-8C56-432E-9B80-73B74361C904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireFighters", "FireFighters\FireFighters.csproj", "{75E358E5-193E-411C-BE49-975C11E70FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BohemchoTheBadGhost", "BohemchoTheBadGhost\BohemchoTheBadGhost.csproj", "{054256C3-A3DD-432E-85F7-EA8A86B1C8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054256C3-A3DD-432E-85F7-EA8A86B1C8AE}.Debug|x86.ActiveCfg = Debug|x86
+		{054256C3-A3DD-432E-85F7-EA8A86B1C8AE}.Debug|x86.Build.0 = Debug|x86
+		{054256C3-A3DD-432E-85F7-EA8A86B1C8AE}.Release|x86.ActiveCfg = Release|x86
+		{054256C3-A3DD-432E-85F7-EA8A86B1C8AE}.Release|x86.Build.0 = Release|x86
+		{75E358E5-193E-411C-BE49-975C11E70FCC}.Debug|x86.ActiveCfg = Debug|x86
+		{75E358E5-193E-411C-BE49-975C11E70FCC}.Debug|x86.Build.0 = Debug|x86
+		{75E358E5-193E-411C-BE49-975C11E70FCC}.Release|x86.ActiveCfg = Release|x86
+		{75E358E5-193E-411C-BE49-975C11E70FCC}.Release|x86.Build.0 = Release|x86
+		{85F23664-F934-45C4-BEB2-F1234D62199F}.Debug|x86.ActiveCfg = Debug|x86
+		{85F23664-F934-45C4-BEB2-F1234D62199F}.Debug|x86.Build.0 = Debug|x86
+		{85F23664-F934-45C4-BEB2-F1234D62199F}.Release|x86.ActiveCfg = Release|x86
+		{85F23664-F934-45C4-BEB2-F1234D62199F}.Release|x86.Build.0 = Release|x86
+		{B0194464-8C56-432E-9B80-73B74361C904}.Debug|x86.ActiveCfg = Debug|x86
+		{B0194464-8C56-432E-9B80-73B74361C904}.Debug|x86.Build.0 = Debug|x86
+		{B0194464-8C56-432E-9B80-73B74361C904}.Release|x86.ActiveCfg = Release|x86
+		{B0194464-8C56-432E-9B80-73B74361C904}.Release|x86.Build.0 = Release|x86
+		{BB037197-E958-4D68-BD54-AE83D83D74F2}.Debug|x86.ActiveCfg = Debug|x86
+		{BB037197-E958-4D68-BD54-AE83D83D74F2}.Debug|x86.Build.0 = Debug|x86
+		{BB037197-E958-4D68-BD54-AE83D83D74F2}.Release|x86.ActiveCfg = Release|x86
+		{BB037197-E958-4D68-BD54-AE83D83D74F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
