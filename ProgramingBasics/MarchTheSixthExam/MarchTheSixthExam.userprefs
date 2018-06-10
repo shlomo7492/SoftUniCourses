@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="StupidPasswordGenerator/StupidPasswordGenerator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StupidPasswordGenerator/Program.cs">
+    <Files>
+      <File FileName="TrainingLab/Program.cs" Line="15" Column="30" />
+      <File FileName="TransportPrice/Program.cs" Line="46" Column="5" />
+      <File FileName="OnTimeForTheExam/Program.cs" Line="41" Column="31" />
+      <File FileName="Histogram/Program.cs" Line="26" Column="7" />
+      <File FileName="DrawFort/Program.cs" Line="11" Column="22" />
+      <File FileName="StupidPasswordGenerator/Program.cs" Line="22" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
