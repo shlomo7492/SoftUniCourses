@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskOne", "TaskOne\TaskOne.csproj", "{8D877804-036C-4A4F-BFAD-39123F9CDC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectArea", "RectArea\RectArea.csproj", "{27CB1569-A16F-4A20-AA46-47F6A0C287FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsdToBgnConverter", "UsdToBgnConverter\UsdToBgnConverter.csproj", "{56BF3D8E-71C7-4403-B13B-DFEB8025B483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CB1569-A16F-4A20-AA46-47F6A0C287FD}.Debug|x86.ActiveCfg = Debug|x86
+		{27CB1569-A16F-4A20-AA46-47F6A0C287FD}.Debug|x86.Build.0 = Debug|x86
+		{27CB1569-A16F-4A20-AA46-47F6A0C287FD}.Release|x86.ActiveCfg = Release|x86
+		{27CB1569-A16F-4A20-AA46-47F6A0C287FD}.Release|x86.Build.0 = Release|x86
+		{56BF3D8E-71C7-4403-B13B-DFEB8025B483}.Debug|x86.ActiveCfg = Debug|x86
+		{56BF3D8E-71C7-4403-B13B-DFEB8025B483}.Debug|x86.Build.0 = Debug|x86
+		{56BF3D8E-71C7-4403-B13B-DFEB8025B483}.Release|x86.ActiveCfg = Release|x86
+		{56BF3D8E-71C7-4403-B13B-DFEB8025B483}.Release|x86.Build.0 = Release|x86
+		{8D877804-036C-4A4F-BFAD-39123F9CDC38}.Debug|x86.ActiveCfg = Debug|x86
+		{8D877804-036C-4A4F-BFAD-39123F9CDC38}.Debug|x86.Build.0 = Debug|x86
+		{8D877804-036C-4A4F-BFAD-39123F9CDC38}.Release|x86.ActiveCfg = Release|x86
+		{8D877804-036C-4A4F-BFAD-39123F9CDC38}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RectArea\RectArea.csproj
+	EndGlobalSection
+EndGlobal
