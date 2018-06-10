@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="EqualPairs/EqualPairs.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumbersEndingInSeven/NumbersEndingInSeven.cs">
+    <Files>
+      <File FileName="NumbersFromOneToHundred/NumbersFromOneToHundred.cs" Line="8" Column="4" />
+      <File FileName="NumbersEndingInSeven/NumbersEndingInSeven.cs" Line="9" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
