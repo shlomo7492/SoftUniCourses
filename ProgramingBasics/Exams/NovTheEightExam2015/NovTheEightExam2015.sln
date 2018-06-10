@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectInHospitality", "ProspectInHospitality\ProspectInHospitality.csproj", "{66D1B7B5-2215-4444-9CFA-918CEA15791C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuResults", "SudokuResults\SudokuResults.csproj", "{51F47298-C113-403E-9C12-9E35DA17E165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalElections", "LocalElections\LocalElections.csproj", "{C7EE25DB-55D9-4583-8407-AB661DEE9120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectGirlFriend", "PerfectGirlFriend\PerfectGirlFriend.csproj", "{B2BE58C6-ECAC-44C4-A61D-0BEBBDAF2FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuffleBits", "ShuffleBits\ShuffleBits.csproj", "{52D67903-42DF-43D0-9320-948165D2A596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F47298-C113-403E-9C12-9E35DA17E165}.Debug|x86.ActiveCfg = Debug|x86
+		{51F47298-C113-403E-9C12-9E35DA17E165}.Debug|x86.Build.0 = Debug|x86
+		{51F47298-C113-403E-9C12-9E35DA17E165}.Release|x86.ActiveCfg = Release|x86
+		{51F47298-C113-403E-9C12-9E35DA17E165}.Release|x86.Build.0 = Release|x86
+		{52D67903-42DF-43D0-9320-948165D2A596}.Debug|x86.ActiveCfg = Debug|x86
+		{52D67903-42DF-43D0-9320-948165D2A596}.Debug|x86.Build.0 = Debug|x86
+		{52D67903-42DF-43D0-9320-948165D2A596}.Release|x86.ActiveCfg = Release|x86
+		{52D67903-42DF-43D0-9320-948165D2A596}.Release|x86.Build.0 = Release|x86
+		{66D1B7B5-2215-4444-9CFA-918CEA15791C}.Debug|x86.ActiveCfg = Debug|x86
+		{66D1B7B5-2215-4444-9CFA-918CEA15791C}.Debug|x86.Build.0 = Debug|x86
+		{66D1B7B5-2215-4444-9CFA-918CEA15791C}.Release|x86.ActiveCfg = Release|x86
+		{66D1B7B5-2215-4444-9CFA-918CEA15791C}.Release|x86.Build.0 = Release|x86
+		{B2BE58C6-ECAC-44C4-A61D-0BEBBDAF2FDB}.Debug|x86.ActiveCfg = Debug|x86
+		{B2BE58C6-ECAC-44C4-A61D-0BEBBDAF2FDB}.Debug|x86.Build.0 = Debug|x86
+		{B2BE58C6-ECAC-44C4-A61D-0BEBBDAF2FDB}.Release|x86.ActiveCfg = Release|x86
+		{B2BE58C6-ECAC-44C4-A61D-0BEBBDAF2FDB}.Release|x86.Build.0 = Release|x86
+		{C7EE25DB-55D9-4583-8407-AB661DEE9120}.Debug|x86.ActiveCfg = Debug|x86
+		{C7EE25DB-55D9-4583-8407-AB661DEE9120}.Debug|x86.Build.0 = Debug|x86
+		{C7EE25DB-55D9-4583-8407-AB661DEE9120}.Release|x86.ActiveCfg = Release|x86
+		{C7EE25DB-55D9-4583-8407-AB661DEE9120}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
