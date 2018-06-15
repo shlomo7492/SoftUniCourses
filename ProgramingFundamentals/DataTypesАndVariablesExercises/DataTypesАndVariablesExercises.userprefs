@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="TheaThePhotographer/TheaThePhotographer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DifferentIntegersSize/Program.cs">
+    <Files>
+      <File FileName="PracticeIntegerNumbers/Program.cs" Line="16" Column="17" />
+      <File FileName="PracticeFloatingPointNumbers/Program.cs" Line="12" Column="17" />
+      <File FileName="PracticeCharactersAndStrings/Program.cs" Line="14" Column="45" />
+      <File FileName="VariableInHexFormat/Program.cs" Line="13" Column="2" />
+      <File FileName="BooleanVariable/Program.cs" Line="9" Column="57" />
+      <File FileName="StringsAndObjects/Program.cs" Line="9" Column="19" />
+      <File FileName="ExchangeVariableValues/Program.cs" Line="15" Column="29" />
+      <File FileName="EmployeeData/Program.cs" Line="19" Column="1" />
+      <File FileName="ReversedChars/Program.cs" Line="15" Column="33" />
+      <File FileName="CenturiesToNanoseconds/Program.cs" Line="12" Column="19" />
+      <File FileName="ConvertSpeedUnits/Program.cs" Line="15" Column="22" />
+      <File FileName="RectangleProperties/Program.cs" Line="9" Column="1" />
+      <File FileName="VowelOrDigit/Program.cs" Line="12" Column="1" />
+      <File FileName="IntegerToHexAndBinary/Program.cs" Line="9" Column="13" />
+      <File FileName="FastPrimeChecker/Program.cs" Line="21" Column="38" />
+      <File FileName="ComparingFloats/Program.cs" Line="14" Column="5" />
+      <File FileName="PrintPartOfASCIITable/Program.cs" Line="9" Column="1" />
+      <File FileName="DifferentIntegersSize/Program.cs" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
