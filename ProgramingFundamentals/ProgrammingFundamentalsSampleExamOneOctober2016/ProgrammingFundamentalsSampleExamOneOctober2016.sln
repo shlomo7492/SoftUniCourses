@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniCoffeeOrders", "SoftuniCoffeeOrders\SoftuniCoffeeOrders.csproj", "{24A90567-E03E-4D35-89D6-4CD2BD8DAC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInterpreter", "CommandInterpreter\CommandInterpreter.csproj", "{B7A66D3D-F6F1-45DE-9E00-96177794A711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{AAC95BD7-C6F4-4A0E-B31C-F05BA436532F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{28DB3562-091D-442C-AAEA-83876EA6A248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A90567-E03E-4D35-89D6-4CD2BD8DAC93}.Debug|x86.ActiveCfg = Debug|x86
+		{24A90567-E03E-4D35-89D6-4CD2BD8DAC93}.Debug|x86.Build.0 = Debug|x86
+		{24A90567-E03E-4D35-89D6-4CD2BD8DAC93}.Release|x86.ActiveCfg = Release|x86
+		{24A90567-E03E-4D35-89D6-4CD2BD8DAC93}.Release|x86.Build.0 = Release|x86
+		{28DB3562-091D-442C-AAEA-83876EA6A248}.Debug|x86.ActiveCfg = Debug|x86
+		{28DB3562-091D-442C-AAEA-83876EA6A248}.Debug|x86.Build.0 = Debug|x86
+		{28DB3562-091D-442C-AAEA-83876EA6A248}.Release|x86.ActiveCfg = Release|x86
+		{28DB3562-091D-442C-AAEA-83876EA6A248}.Release|x86.Build.0 = Release|x86
+		{AAC95BD7-C6F4-4A0E-B31C-F05BA436532F}.Debug|x86.ActiveCfg = Debug|x86
+		{AAC95BD7-C6F4-4A0E-B31C-F05BA436532F}.Debug|x86.Build.0 = Debug|x86
+		{AAC95BD7-C6F4-4A0E-B31C-F05BA436532F}.Release|x86.ActiveCfg = Release|x86
+		{AAC95BD7-C6F4-4A0E-B31C-F05BA436532F}.Release|x86.Build.0 = Release|x86
+		{B7A66D3D-F6F1-45DE-9E00-96177794A711}.Debug|x86.ActiveCfg = Debug|x86
+		{B7A66D3D-F6F1-45DE-9E00-96177794A711}.Debug|x86.Build.0 = Debug|x86
+		{B7A66D3D-F6F1-45DE-9E00-96177794A711}.Release|x86.ActiveCfg = Release|x86
+		{B7A66D3D-F6F1-45DE-9E00-96177794A711}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
