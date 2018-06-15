@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="PriceChangeAlert/PriceChangeAlert.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PriceChangeAlert/Program.cs">
+    <Files>
+      <File FileName="BlankReceipt/Program.cs" Line="9" Column="19" />
+      <File FileName="SignOfIntegerNumber/Program.cs" Line="10" Column="23" />
+      <File FileName="PrintTriangle/Program.cs" Line="16" Column="35" />
+      <File FileName="DrawAFilledSquare/Program.cs" Line="18" Column="28" />
+      <File FileName="CalculateTriangleArea/Program.cs" Line="9" Column="10" />
+      <File FileName="MathPower/Program.cs" Line="18" Column="25" />
+      <File FileName="GreaterOfTwoValues/Program.cs" Line="17" Column="2" />
+      <File FileName="MultiplyEvensByOdds/Program.cs" Line="55" Column="1" />
+      <File FileName="HolidaysbetweenTwoDates/Program.cs" Line="23" Column="2" />
+      <File FileName="PriceChangeAlert/Program.cs" Line="49" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodsAndDebuggingLab" expanded="True">
+            <Node name="CalculateTriangleArea" expanded="True" />
+            <Node name="DrawAFilledSquare" expanded="True" />
+            <Node name="GreaterOfTwoValues" expanded="True" />
+            <Node name="HolidaysbetweenTwoDates" expanded="True" />
+            <Node name="MathPower" expanded="True" />
+            <Node name="MultiplyEvensByOdds" expanded="True" />
+            <Node name="PriceChangeAlert" expanded="True" selected="True" />
+            <Node name="PrintTriangle" expanded="True" />
+            <Node name="SignOfIntegerNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
