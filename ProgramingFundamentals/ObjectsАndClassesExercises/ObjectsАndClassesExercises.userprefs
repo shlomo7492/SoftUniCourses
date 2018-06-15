@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="AndreyAndBilliard/AndreyAndBilliard.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndreyAndBilliard/AndreyAndBilliard.cs">
+    <Files>
+      <File FileName="BookLibrary/BookLibrary.cs" Line="65" Column="48" />
+      <File FileName="BookLibraryModification/BookLibraryModification.cs" Line="58" Column="67" />
+      <File FileName="AndreyAndBilliard/AndreyAndBilliard.cs" Line="100" Column="1091" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
