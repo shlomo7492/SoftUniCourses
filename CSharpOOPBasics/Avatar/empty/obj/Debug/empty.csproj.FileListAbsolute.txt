@@ -1,0 +1,6 @@
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\bin\Debug\empty.exe.config
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\bin\Debug\empty.exe
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\bin\Debug\empty.pdb
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\obj\Debug\empty.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\obj\Debug\empty.exe
+C:\Users\Dimitar Daskalov\Dropbox\SoftwareEngeneer\C#OOPBasics\Avatar\empty\obj\Debug\empty.pdb
