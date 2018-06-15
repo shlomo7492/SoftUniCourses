@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Factorials/Factorials.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factorials/Program.cs">
+    <Files>
+      <File FileName="EnglishNameОfLastDigit/Program.cs" Line="11" Column="4" />
+      <File FileName="NumbersInReversedOrder/Program.cs" Line="17" Column="5" />
+      <File FileName="FibonacciNumbers/Program.cs" Line="16" Column="6" />
+      <File FileName="PrimeChecker/Program.cs" Line="28" Column="4" />
+      <File FileName="PrimesInGivenRange/Program.cs" Line="49" Column="28" />
+      <File FileName="CenterPoint/Program.cs" Line="19" Column="84" />
+      <File FileName="LongerLine/Program.cs" Line="45" Column="25" />
+      <File FileName="CubeProperties/Program.cs" Line="21" Column="4" />
+      <File FileName="GeometryCalculator/Program.cs" Line="49" Column="47" />
+      <File FileName="MasterNumber/Program.cs" Line="88" Column="17" />
+      <File FileName="Factorials/Program.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
