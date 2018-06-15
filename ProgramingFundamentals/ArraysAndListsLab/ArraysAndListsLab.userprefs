@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="CountNumbers/CountNumbers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountNumbers/Program.cs">
+    <Files>
+      <File FileName="SumAdjacentEqualNumbers/Program.cs" Line="21" Column="4" />
+      <File FileName="AppendLists/Program.cs" Line="13" Column="27" />
+      <File FileName="SplitByWordCasing/Program.cs" Line="6" Column="1" />
+      <File FileName="SortNumbers/Program.cs" Line="25" Column="11" />
+      <File FileName="SquareNumbers/Program.cs" Line="13" Column="37" />
+      <File FileName="CountNumbers/Program.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
