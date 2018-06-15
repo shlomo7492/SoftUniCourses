@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{ABA50D36-004A-44C6-A9BB-5FA63B123895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrences", "OddOccurrences\OddOccurrences.csproj", "{EC960A06-104B-48BA-99D9-94AAF7834F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxSumAverage", "MinMaxSumAverage\MinMaxSumAverage.csproj", "{2DD69074-4990-4D43-8476-1E77FD543621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestThreeNumbers", "LargestThreeNumbers\LargestThreeNumbers.csproj", "{7FFF15DF-55DB-4211-8A68-09353848762B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "ShortWordsSorted\ShortWordsSorted.csproj", "{291FFD86-DEE5-4B5E-A8BD-FA08389F2478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\FoldAndSum.csproj", "{ACA57C76-3CF7-446A-9DD4-01EB8716FAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291FFD86-DEE5-4B5E-A8BD-FA08389F2478}.Debug|x86.ActiveCfg = Debug|x86
+		{291FFD86-DEE5-4B5E-A8BD-FA08389F2478}.Debug|x86.Build.0 = Debug|x86
+		{291FFD86-DEE5-4B5E-A8BD-FA08389F2478}.Release|x86.ActiveCfg = Release|x86
+		{291FFD86-DEE5-4B5E-A8BD-FA08389F2478}.Release|x86.Build.0 = Release|x86
+		{2DD69074-4990-4D43-8476-1E77FD543621}.Debug|x86.ActiveCfg = Debug|x86
+		{2DD69074-4990-4D43-8476-1E77FD543621}.Debug|x86.Build.0 = Debug|x86
+		{2DD69074-4990-4D43-8476-1E77FD543621}.Release|x86.ActiveCfg = Release|x86
+		{2DD69074-4990-4D43-8476-1E77FD543621}.Release|x86.Build.0 = Release|x86
+		{7FFF15DF-55DB-4211-8A68-09353848762B}.Debug|x86.ActiveCfg = Debug|x86
+		{7FFF15DF-55DB-4211-8A68-09353848762B}.Debug|x86.Build.0 = Debug|x86
+		{7FFF15DF-55DB-4211-8A68-09353848762B}.Release|x86.ActiveCfg = Release|x86
+		{7FFF15DF-55DB-4211-8A68-09353848762B}.Release|x86.Build.0 = Release|x86
+		{ABA50D36-004A-44C6-A9BB-5FA63B123895}.Debug|x86.ActiveCfg = Debug|x86
+		{ABA50D36-004A-44C6-A9BB-5FA63B123895}.Debug|x86.Build.0 = Debug|x86
+		{ABA50D36-004A-44C6-A9BB-5FA63B123895}.Release|x86.ActiveCfg = Release|x86
+		{ABA50D36-004A-44C6-A9BB-5FA63B123895}.Release|x86.Build.0 = Release|x86
+		{ACA57C76-3CF7-446A-9DD4-01EB8716FAFA}.Debug|x86.ActiveCfg = Debug|x86
+		{ACA57C76-3CF7-446A-9DD4-01EB8716FAFA}.Debug|x86.Build.0 = Debug|x86
+		{ACA57C76-3CF7-446A-9DD4-01EB8716FAFA}.Release|x86.ActiveCfg = Release|x86
+		{ACA57C76-3CF7-446A-9DD4-01EB8716FAFA}.Release|x86.Build.0 = Release|x86
+		{EC960A06-104B-48BA-99D9-94AAF7834F27}.Debug|x86.ActiveCfg = Debug|x86
+		{EC960A06-104B-48BA-99D9-94AAF7834F27}.Debug|x86.Build.0 = Debug|x86
+		{EC960A06-104B-48BA-99D9-94AAF7834F27}.Release|x86.ActiveCfg = Release|x86
+		{EC960A06-104B-48BA-99D9-94AAF7834F27}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
