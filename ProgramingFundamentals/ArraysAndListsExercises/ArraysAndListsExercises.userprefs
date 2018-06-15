@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ArrayManipulator/ArrayManipulator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|Mixed Platforms" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayManipulator/Program.cs">
+    <Files>
+      <File FileName="MaxSequenceOfIncreasingElements/Program.cs" Line="58" Column="1" />
+      <File FileName="LongestIncreasingSubsequence/Program.cs" Line="28" Column="27" />
+      <File FileName="ArrayManipulator/Program.cs" Line="138" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
