@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModels", "DomainModels\DomainModels.csproj", "{22B22DC3-59EF-4FBE-B05B-1FD98D31F674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{4214A004-2F79-43CB-BB0C-E8760A213785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationsImport", "StationsImport\StationsImport.csproj", "{2A249115-9D75-4A1B-9D02-202FDD646607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{C2D8A0EA-9543-4370-B0F7-479AC3D88249}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\cards.xml = Resources\cards.xml
+		Resources\classes.json = Resources\classes.json
+		Resources\stations.json = Resources\stations.json
+		Resources\tickets.xml = Resources\tickets.xml
+		Resources\trains.json = Resources\trains.json
+		Resources\trips.json = Resources\trips.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationExport", "StationExport\StationExport.csproj", "{2FDA7902-4597-4952-B174-FCE170D980AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B22DC3-59EF-4FBE-B05B-1FD98D31F674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B22DC3-59EF-4FBE-B05B-1FD98D31F674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B22DC3-59EF-4FBE-B05B-1FD98D31F674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B22DC3-59EF-4FBE-B05B-1FD98D31F674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4214A004-2F79-43CB-BB0C-E8760A213785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4214A004-2F79-43CB-BB0C-E8760A213785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4214A004-2F79-43CB-BB0C-E8760A213785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4214A004-2F79-43CB-BB0C-E8760A213785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A249115-9D75-4A1B-9D02-202FDD646607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A249115-9D75-4A1B-9D02-202FDD646607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A249115-9D75-4A1B-9D02-202FDD646607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A249115-9D75-4A1B-9D02-202FDD646607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDA7902-4597-4952-B174-FCE170D980AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDA7902-4597-4952-B174-FCE170D980AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDA7902-4597-4952-B174-FCE170D980AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDA7902-4597-4952-B174-FCE170D980AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
