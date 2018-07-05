@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntroDefineClassPersonTaskOne", "OOPIntro\OOPIntroDefineClassPersonTaskOne.csproj", "{1E2787D1-AF56-486E-A896-A0427E2BFD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons", "Person\Persons.csproj", "{FA44D538-754D-45AE-84D5-3F6045B741BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntroAddConstructorsTaskTwo", "OOPIntroTaskTwo\OOPIntroAddConstructorsTaskTwo.csproj", "{970AE876-02FC-47D9-9824-AFEFC5B3C1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntroOldestMemberTaskThree", "OOPIntroOldestMember\OOPIntroOldestMemberTaskThree.csproj", "{9CB27390-8BE3-4FF5-886C-A9E83F877EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{E247B772-2168-4317-875E-C28B14BA8737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanckConstant", "PlanckConstant\PlanckConstant.csproj", "{AEBAED1B-BCF9-4A7F-95E3-E3492C4C9696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathUtilities", "MathUtilities\MathUtilities.csproj", "{F432F02D-B69E-47C6-BB0B-EE9B99660DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2787D1-AF56-486E-A896-A0427E2BFD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2787D1-AF56-486E-A896-A0427E2BFD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2787D1-AF56-486E-A896-A0427E2BFD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2787D1-AF56-486E-A896-A0427E2BFD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA44D538-754D-45AE-84D5-3F6045B741BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA44D538-754D-45AE-84D5-3F6045B741BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA44D538-754D-45AE-84D5-3F6045B741BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA44D538-754D-45AE-84D5-3F6045B741BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970AE876-02FC-47D9-9824-AFEFC5B3C1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970AE876-02FC-47D9-9824-AFEFC5B3C1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970AE876-02FC-47D9-9824-AFEFC5B3C1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970AE876-02FC-47D9-9824-AFEFC5B3C1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB27390-8BE3-4FF5-886C-A9E83F877EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB27390-8BE3-4FF5-886C-A9E83F877EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB27390-8BE3-4FF5-886C-A9E83F877EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB27390-8BE3-4FF5-886C-A9E83F877EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E247B772-2168-4317-875E-C28B14BA8737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E247B772-2168-4317-875E-C28B14BA8737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E247B772-2168-4317-875E-C28B14BA8737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E247B772-2168-4317-875E-C28B14BA8737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBAED1B-BCF9-4A7F-95E3-E3492C4C9696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBAED1B-BCF9-4A7F-95E3-E3492C4C9696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBAED1B-BCF9-4A7F-95E3-E3492C4C9696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBAED1B-BCF9-4A7F-95E3-E3492C4C9696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F432F02D-B69E-47C6-BB0B-EE9B99660DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F432F02D-B69E-47C6-BB0B-EE9B99660DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F432F02D-B69E-47C6-BB0B-EE9B99660DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F432F02D-B69E-47C6-BB0B-EE9B99660DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
